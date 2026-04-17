@@ -1,8 +1,8 @@
 # Day 12 Lab - Mission Answers
 
 ## Student Info
-- Name: [Your Name]
-- Student ID: [Your Student ID]
+- Name: Nguyen Manh Phu
+- Student ID: 2A202600178
 - Date: 2026-04-17
 
 ## Part 1: Localhost vs Production
